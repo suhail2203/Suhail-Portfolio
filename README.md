@@ -1,16 +1,64 @@
-# React + Vite
+Personal Portfolio Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A responsive personal portfolio website developed using React.js and Vite to showcase my technical skills, projects, education, and professional profile.
 
-Currently, two official plugins are available:
+Live Demo
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+"View My Portfolio" (https://suhail-portfolio-sigma.vercel.app)
 
-## React Compiler
+Tech Stack
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+- React.js
+- Vite
+- JavaScript
+- HTML5
+- CSS3
 
-## Expanding the ESLint configuration
+Features
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- Responsive and user-friendly interface
+- Personal introduction and professional profile
+- Technical skills showcase
+- Projects showcase with project details
+- Education details
+- GitHub and LinkedIn profile links
+- Live project demonstrations
+- Easy navigation across sections
+
+Development Tools
+
+- Visual Studio Code
+- Git
+- GitHub
+- Vercel
+
+Installation and Setup
+
+1. Clone the repository:
+   
+   "git clone https://github.com/suhail2203/Suhail-Portfolio.git"
+
+2. Navigate to the project directory:
+   
+   "cd Suhail-Portfolio"
+
+3. Install dependencies:
+   
+   "npm install"
+
+4. Start the development server:
+   
+   "npm run dev"
+
+5. Open the local URL displayed in your terminal.
+
+Deployment
+
+This portfolio website is deployed using Vercel.
+
+Author
+
+Muhammed Suhail M.L.
+
+- GitHub: "suhail2203" (https://github.com/suhail2203)
+- Portfolio: "Live Website" (https://suhail-portfolio-sigma.vercel.app)
